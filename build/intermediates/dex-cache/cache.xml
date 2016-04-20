@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kunmyt/Downloads/cbox1s_city-guide_v11/codecanyon-12224442-city-guide-sleep-eat-enjoy/dmbteam_city_guide_v1.1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a90d987459d65cbab97c6370fdd66e13e4e5de88">
+        <dex dex="/Users/kunmyt/Downloads/cbox1s_city-guide_v11/codecanyon-12224442-city-guide-sleep-eat-enjoy/dmbteam_city_guide_v1.1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_749d335692146c0ac74709ba0be4f3a3df2993a7/classes.dex" />
+    </item>
+
+</items>
